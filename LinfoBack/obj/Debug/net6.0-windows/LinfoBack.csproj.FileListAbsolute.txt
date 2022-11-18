@@ -1,0 +1,17 @@
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.View.Form1.resources
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.AssemblyInfo.cs
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\bin\Debug\net6.0-windows\LinfoBack.exe
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\bin\Debug\net6.0-windows\LinfoBack.deps.json
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\bin\Debug\net6.0-windows\LinfoBack.runtimeconfig.json
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\bin\Debug\net6.0-windows\LinfoBack.dll
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\bin\Debug\net6.0-windows\LinfoBack.pdb
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.dll
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\refint\LinfoBack.dll
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.pdb
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\LinfoBack.genruntimeconfig.cache
+C:\Users\victo\source\repos\LinfoBack\LinfoBack\obj\Debug\net6.0-windows\ref\LinfoBack.dll
