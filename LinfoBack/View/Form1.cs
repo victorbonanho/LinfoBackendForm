@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LinfoBack.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,8 @@ namespace LinfoBack.View
 {
     public partial class Form1 : Form
     {
+        Social social;
+
         public Form1()
         {
             InitializeComponent();
@@ -80,6 +83,20 @@ namespace LinfoBack.View
         private void button1_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            enviar_dados();
+        }
+
+        private void enviar_dados()
+        {
+            textBox1.Text = social.instagram;
+            textBox2.Text = social.linkedin;
+            textBox3.Text = social.github;
+            textBox4.Text = social.whatsapp;
+            textBox5.Text = social.email;
         }
     }
 }
